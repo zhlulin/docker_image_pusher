@@ -17,4 +17,5 @@
 #iceblacktea/redroid-arm64:12.0.0-240328
 #ubuntu:16.04
 #ghcr.io/tianocore/containers/ubuntu-22-dev
-ghcr.io/tianocore/containers/ubuntu-22-dev:2ce82af
+#ghcr.io/tianocore/containers/ubuntu-22-dev:2ce82af
+ghcr.io/open-webui/open-webui:main
