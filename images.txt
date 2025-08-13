@@ -18,4 +18,5 @@
 #ubuntu:16.04
 #ghcr.io/tianocore/containers/ubuntu-22-dev
 #ghcr.io/tianocore/containers/ubuntu-22-dev:2ce82af
---platform=linux/arm64 ghcr.io/open-webui/open-webui:main 
+#--platform=linux/arm64 ghcr.io/open-webui/open-webui:main 
+gitlab.cs.pub.ro:5050/so2/so2-assignments:latest
